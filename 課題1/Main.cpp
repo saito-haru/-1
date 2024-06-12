@@ -1,0 +1,16 @@
+#include "Sample.h"
+
+//メイン関数
+int main() 
+{
+	//SamlieClassクラスのインスタンス(実態)を作る
+	SampleClass a;
+
+	//３つのメンバ関数を呼び出す
+	a.Input();
+	a.Plus();
+	a.Disp();
+}
+
+//回答
+//変数Cの値は13
