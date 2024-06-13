@@ -1,3 +1,4 @@
+#pragma once
 class Data {
 	//ƒƒ“ƒo•Ï”
 	int value;
