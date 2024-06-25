@@ -1,5 +1,5 @@
 #pragma once
-class Calclation
+class Calculation
 {
 	//ƒƒ“ƒo•Ï”
 	float A;
