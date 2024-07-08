@@ -5,5 +5,5 @@ class Square :public Figure
 {
 	//ŒvZ‚Ég‚¤ƒƒ“ƒoŠÖ”
 public:
-	float SQU(float b);
+	void Calc();
 };

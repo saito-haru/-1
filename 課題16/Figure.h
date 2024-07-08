@@ -3,7 +3,7 @@
 //基本となる図形クラス
 class Figure
 {
-public:
+protected:
 	float teihen, takasa, menseki;
 public:
 	void SetTeihen(float f);
